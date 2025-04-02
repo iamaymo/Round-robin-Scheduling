@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1f73e948-f006-474d-b50e-b770a9673082": {
+      "ProjectGuid": "1f73e948-f006-474d-b50e-b770a9673082",
+      "DisplayName": "RoundRobinAlgorithm(Csharp)",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

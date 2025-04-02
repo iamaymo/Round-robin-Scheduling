@@ -1,0 +1,17 @@
+D:\3rd Year\Operating systems\د -  فضيلة\Round Robin Scheduling Algorithm\RoundRobinAlgorithm(Csharp)\RoundRobinAlgorithm(Csharp)\bin\Debug\net6.0-windows\RoundRobinAlgorithm(Csharp).exe
+D:\3rd Year\Operating systems\د -  فضيلة\Round Robin Scheduling Algorithm\RoundRobinAlgorithm(Csharp)\RoundRobinAlgorithm(Csharp)\bin\Debug\net6.0-windows\RoundRobinAlgorithm(Csharp).deps.json
+D:\3rd Year\Operating systems\د -  فضيلة\Round Robin Scheduling Algorithm\RoundRobinAlgorithm(Csharp)\RoundRobinAlgorithm(Csharp)\bin\Debug\net6.0-windows\RoundRobinAlgorithm(Csharp).runtimeconfig.json
+D:\3rd Year\Operating systems\د -  فضيلة\Round Robin Scheduling Algorithm\RoundRobinAlgorithm(Csharp)\RoundRobinAlgorithm(Csharp)\bin\Debug\net6.0-windows\RoundRobinAlgorithm(Csharp).dll
+D:\3rd Year\Operating systems\د -  فضيلة\Round Robin Scheduling Algorithm\RoundRobinAlgorithm(Csharp)\RoundRobinAlgorithm(Csharp)\bin\Debug\net6.0-windows\ref\RoundRobinAlgorithm(Csharp).dll
+D:\3rd Year\Operating systems\د -  فضيلة\Round Robin Scheduling Algorithm\RoundRobinAlgorithm(Csharp)\RoundRobinAlgorithm(Csharp)\bin\Debug\net6.0-windows\RoundRobinAlgorithm(Csharp).pdb
+D:\3rd Year\Operating systems\د -  فضيلة\Round Robin Scheduling Algorithm\RoundRobinAlgorithm(Csharp)\RoundRobinAlgorithm(Csharp)\obj\Debug\net6.0-windows\RoundRobinAlgorithm(Csharp).csproj.AssemblyReference.cache
+D:\3rd Year\Operating systems\د -  فضيلة\Round Robin Scheduling Algorithm\RoundRobinAlgorithm(Csharp)\RoundRobinAlgorithm(Csharp)\obj\Debug\net6.0-windows\RoundRobinAlgorithm(Csharp).GeneratedMSBuildEditorConfig.editorconfig
+D:\3rd Year\Operating systems\د -  فضيلة\Round Robin Scheduling Algorithm\RoundRobinAlgorithm(Csharp)\RoundRobinAlgorithm(Csharp)\obj\Debug\net6.0-windows\RoundRobinAlgorithm(Csharp).AssemblyInfoInputs.cache
+D:\3rd Year\Operating systems\د -  فضيلة\Round Robin Scheduling Algorithm\RoundRobinAlgorithm(Csharp)\RoundRobinAlgorithm(Csharp)\obj\Debug\net6.0-windows\RoundRobinAlgorithm(Csharp).AssemblyInfo.cs
+D:\3rd Year\Operating systems\د -  فضيلة\Round Robin Scheduling Algorithm\RoundRobinAlgorithm(Csharp)\RoundRobinAlgorithm(Csharp)\obj\Debug\net6.0-windows\RoundRobinAlgorithm(Csharp).csproj.CoreCompileInputs.cache
+D:\3rd Year\Operating systems\د -  فضيلة\Round Robin Scheduling Algorithm\RoundRobinAlgorithm(Csharp)\RoundRobinAlgorithm(Csharp)\obj\Debug\net6.0-windows\RoundRobinAlgorithm(Csharp).dll
+D:\3rd Year\Operating systems\د -  فضيلة\Round Robin Scheduling Algorithm\RoundRobinAlgorithm(Csharp)\RoundRobinAlgorithm(Csharp)\obj\Debug\net6.0-windows\ref\RoundRobinAlgorithm(Csharp).dll
+D:\3rd Year\Operating systems\د -  فضيلة\Round Robin Scheduling Algorithm\RoundRobinAlgorithm(Csharp)\RoundRobinAlgorithm(Csharp)\obj\Debug\net6.0-windows\RoundRobinAlgorithm(Csharp).pdb
+D:\3rd Year\Operating systems\د -  فضيلة\Round Robin Scheduling Algorithm\RoundRobinAlgorithm(Csharp)\RoundRobinAlgorithm(Csharp)\obj\Debug\net6.0-windows\RoundRobinAlgorithm(Csharp).genruntimeconfig.cache
+D:\3rd Year\Operating systems\د -  فضيلة\Round Robin Scheduling Algorithm\RoundRobinAlgorithm(Csharp)\RoundRobinAlgorithm(Csharp)\obj\Debug\net6.0-windows\RoundRobinAlgorithm_Csharp_.Form1.resources
+D:\3rd Year\Operating systems\د -  فضيلة\Round Robin Scheduling Algorithm\RoundRobinAlgorithm(Csharp)\RoundRobinAlgorithm(Csharp)\obj\Debug\net6.0-windows\RoundRobinAlgorithm(Csharp).csproj.GenerateResource.cache
