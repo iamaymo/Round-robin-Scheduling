@@ -12,8 +12,10 @@ In scenarios where task sizes vary significantly, round-robin scheduling can fav
 
 Below is an example illustration of how Round-robin scheduling works:
 
-##Python
-![Round-robin Scheduling Example](path/to/your/image.png)
+## Python
 
-##C#
-![Round-robin Scheduling Example](path/to/your/image.png)
+![Round-robin Scheduling Example](https://github.com/iamaymo/Round-robin-Scheduling/blob/main/EX(py).jpg)
+
+## C#
+
+![Round-robin Scheduling Example](https://github.com/iamaymo/Round-robin-Scheduling/blob/main/EX(cs).jpg)
